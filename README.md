@@ -50,7 +50,7 @@ Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas n
  
 <details>	
   <br />
-  <summary><b>⚙️ Coisas que uso para desenvolver no dia a dia</b></summary>
+  <summary><b>⚙️ O que uso para poder desenvolver no dia a dia</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11 & Ubuntu 20.04 (WSL2) </li>
 	    <li><b>Laptop: </b> Ideapad S145 (i5) </li>
