@@ -9,7 +9,7 @@
 Moro em Porto Alegre, tenho 28 anos e desmonto coisas desde que entendo por gente 😅, e hoje aprendo a criar.
 Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas novas, aprendendo e tentando passar um pouco do que eu sei 😁. Curto também eletrônica e qualquer coisa que tenha relação com criar nossas próprias coisas. Minha distração é ir atrás de vídeos de gatos 🐈.
 
-<img align="right" height="250" width="375" alt="" src="https://matricce.github.io/matricce/images/train.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/matricce/matricce/blob/main/images/train.gif?raw=true" />
 
 ### Mais sobre mim:
 
