@@ -53,10 +53,10 @@ Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas n
   <summary><b>⚙️ Coisas que uso para desenvolver no dia a dia</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11 & Ubuntu 20.04 (WSL2) </li>
-	    <li><b>Laptop: </b> Ideapad S145 (i5)</li>
-  	    <li><b>Navegador: </b> Chrome</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh + Oh My Posh (JanDeDobbeleer)</li>
-	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Laptop: </b> Ideapad S145 (i5) </li>
+  	    <li><b>Navegador: </b> Chrome </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh + Oh My Posh (JanDeDobbeleer) </li>
+	    <li><b>Editor:</b> Visual Studio Code </li>
 	    <br />
 	</ul>	
 </details>
