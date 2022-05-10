@@ -22,14 +22,17 @@ Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas n
 ### Linguagens e ferramentas que uso/gosto:
 
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/arduino.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/platformio.svg" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nestjs.svg" alt="nestjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" alt="postgresql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" alt="python"></code>
 
 ### Quer dados?
 
