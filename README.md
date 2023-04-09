@@ -6,7 +6,7 @@
 
 ### Boas vindas ao meu Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=matricce.matricce&style=flat-square&color=0088cc)
 
-Moro em Porto Alegre, tenho 28 anos e desmonto coisas desde que entendo por gente 😅, e hoje aprendo a criar.
+Moro em Porto Alegre, tenho 29 anos e desmonto coisas desde que entendo por gente 😅, e hoje aprendo a criar.
 Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas novas, aprendendo e tentando passar um pouco do que eu sei 😁. Curto também eletrônica e qualquer coisa que tenha relação com criar nossas próprias coisas. Minha distração é ir atrás de vídeos de gatos 🐈.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/matricce/matricce/blob/main/images/train.gif?raw=true" />
@@ -29,10 +29,13 @@ Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas n
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nestjs.svg" alt="nestjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" alt="postgresql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" alt="docker"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" alt="ubuntu"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/fedora.svg" alt="fedora"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/prisma.svg" alt="prisma"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vercel.svg" alt="vercel"></code>
 
 ### Quer dados?
 
@@ -55,10 +58,10 @@ Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas n
   <br />
   <summary><b>⚙️ O que uso para desenvolver no dia a dia</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Linux Mint </li>
+  	    <li><b>OS:</b> Fedora KDE Plasma Desktop </li>
 	    <li><b>Laptop: </b> Ideapad S145 (i5) </li>
   	    <li><b>Navegador: </b> Chrome </li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh + Oh My Posh (JanDeDobbeleer) </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh + Oh My Posh (JanDeDobbeleer Theme) </li>
 	    <li><b>Editor:</b> Visual Studio Code </li>
 	    <br />
 	</ul>	
