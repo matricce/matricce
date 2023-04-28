@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://matricce.github.io/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tricce)
 
-### Boas vindas ao meu Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=matricce.matricce&style=flat-square&color=0088cc)
+### Boas vindas ao meu Github! &nbsp; ![](https://visitor_badge.deta.dev/?id=github.badge?page_id=matricce.matricce&style=flat-square&color=0088cc)
 
 Moro em Porto Alegre, tenho 29 anos e desmonto coisas desde que entendo por gente 😅, e hoje aprendo a criar.
 Gosto de poder interagir com outras pessoas da área de TI, descobrindo coisas novas, aprendendo e tentando passar um pouco do que eu sei 😁. Curto também eletrônica e qualquer coisa que tenha relação com criar nossas próprias coisas. Minha distração é ir atrás de vídeos de gatos 🐈.
